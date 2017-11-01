@@ -10,7 +10,9 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("-------------Esto es una prueba--------------");
-        System.out.println("Ingrese su nombre");
+        System.out.println("Lista de personas");
+        
+        //Ingresar una lista de personas. 
         
     }
     
